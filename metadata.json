@@ -1,0 +1,6 @@
+{
+  "name": "TV Max Booster",
+  "description": "Android TV and TV Box application that maximizes screen brightness, maximizes audio volume, and loops ses.mp3 on startup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
